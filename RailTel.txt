@@ -16,3 +16,6 @@ Sunday - 7.6.26 (Holiday)
 day7 = 10 to 7 PM			8.6.26 - Mon
 day8 = 10 to 6.20 PM
 day9 = 10 to 6 PM
+day10 = 10 to 6 PM
+
+
