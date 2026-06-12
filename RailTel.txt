@@ -17,5 +17,6 @@ day7 = 10 to 7 PM			8.6.26 - Mon
 day8 = 10 to 6.20 PM
 day9 = 10 to 6 PM
 day10 = 10 to 6 PM
+day11 = 9.45 to 7 PM
 
 
