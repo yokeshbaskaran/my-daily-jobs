@@ -5,7 +5,7 @@ RAILTEL:
 ---
 Start Date: 1.06.26
 
-day1 = 10.00 to 5.30 PM		1.6.26 - Mon
+day1 = 10.00 to 5.30 PM		    1.6.26 - Mon
 day2 = 10.00 to 5.30 PM
 day3 = 10.15 to 6 PM
 day4 = 10.15 to 7 PM
@@ -13,10 +13,12 @@ day5 = 10 to 6 PM
 day6 = 9.30 to 6 PM
 Sunday - 7.6.26 (Holiday)
 
-day7 = 10 to 7 PM			8.6.26 - Mon
+day7 = 10 to 7 PM			    8.6.26 - Mon
 day8 = 10 to 6.20 PM
 day9 = 10 to 6 PM
 day10 = 10 to 6 PM
 day11 = 9.45 to 7 PM
 day12 = 9.45 to 5.30 PM
 Sunday - 14.6.26 (Holiday)
+
+day13 = 10 to 4.30 PM		    15.6.26 - Mon
