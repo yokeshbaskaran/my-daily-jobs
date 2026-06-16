@@ -22,3 +22,4 @@ day12 = 9.45 to 5.30 PM
 Sunday - 14.6.26 (Holiday)
 
 day13 = 10 to 4.30 PM		    15.6.26 - Mon
+day14 = 10 to 5.30 PM
