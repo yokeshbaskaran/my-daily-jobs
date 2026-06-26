@@ -32,3 +32,6 @@ Sunday - 21.6.26 (Holiday)
 day19 = 10.20 to 7 PM			22.6.26 - Mon
 day20 = 10 to 6 PM
 day21 = 9.30 to 5.40 PM
+day22 = 10 to 6 PM
+
+

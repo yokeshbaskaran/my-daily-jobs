@@ -32,6 +32,7 @@ day21 = 0
 day22 = 10.30 to 10.50 and 9.20 to 9.50 PM 
 day23 = 0 
 day24 = 8 to 9.15 PM
+day25 = 0
 
 
 
