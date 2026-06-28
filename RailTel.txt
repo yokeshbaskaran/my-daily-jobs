@@ -35,5 +35,5 @@ day21 = 9.30 to 5.40 PM
 day22 = 10 to 6 PM
 day23 = 10 to 6.30 PM
 day24 = 10 to 6 PM
-
+Sunday - 28.6.26 (Holiday)
 
