@@ -38,6 +38,6 @@ day24 = 10 to 6 PM
 Sunday - 28.6.26 (Holiday)
 
 day25 = 10.15 to 7 PM			29.6.26 - Mon
-
+day26 = 10 to 5 PM
 
 
