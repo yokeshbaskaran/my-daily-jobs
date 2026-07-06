@@ -41,3 +41,14 @@ day25 = 10.15 to 7 PM			29.6.26 - Mon
 day26 = 10 to 5 PM
 
 xxx--- End of June 2026 ---xxx
+
+day1 = 10 to 4.50 Pm            		1.7.26 - Wed
+day2 = 10 to 6 Pm      
+day3 = 10 to 6 Pm      
+day4 = 10 to 5 Pm      
+day5 = 10 to 7 Pm      
+
+day6 = 0   						6.7.26 - Mon
+
+
+
