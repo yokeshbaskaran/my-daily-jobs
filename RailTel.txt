@@ -48,7 +48,8 @@ day3 = 10 to 6 Pm
 day4 = 10 to 5 Pm      
 day5 = 10 to 7 Pm      
 
-day6 = 0   						6.7.26 - Mon
-
+day6 = 0 (Leave)   				6.7.26 - Mon
+day7 = 10 to 5.30 PM
+day8 = 8 to 7 PM
 
 
