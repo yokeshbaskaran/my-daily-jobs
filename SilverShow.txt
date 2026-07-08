@@ -49,3 +49,5 @@ day4 = 0
 day5 = 0 
 
 day6 = 0 										6.7.26 - Mon
+day7 = 0
+day8 = 8.30 to 9.30 PM
