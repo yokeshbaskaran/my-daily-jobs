@@ -53,6 +53,7 @@ day7 = 10 to 5.30 PM
 day8 = 8 to 7 PM
 day9 = 10 to 7 PM
 day10 = 10.30 to 7 PM
-day10 = 10 to 6 PM
+day11 = 10 to 6 PM
+day12 = 12.7.26 (Holiday)
 
 
