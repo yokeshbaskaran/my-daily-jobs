@@ -56,5 +56,11 @@ day10 = 8.30 to 9.30 AM
 day11 = 0
 day12 = 0
 
-day13 = 0
+day13 = 0										13.6.26 - Mon
 day14 = 0
+day15 = 0
+day16 = 0
+day17 = 0
+day18 = 0
+day19 = 0
+
