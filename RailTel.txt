@@ -31,6 +31,14 @@ day18 = 10 to 4 PM
 day19 = 19.7.26 (Holiday)
 
 day20 = 10.10 to 5.20 PM			20.7.26 - Mon
+day21 = 10.10 to 5.30 PM
+day22 = 10.10 to 6 PM
+day23 = 10.10 to 8 PM
+day24 = 10.10 to 6 PM
+day25 = 10 to 9.30 PM
+day26 = 26.7.26 (Holiday)
+
+
 
 ------------------------------------------
 xxx--- End of June 2026 ---xxx
