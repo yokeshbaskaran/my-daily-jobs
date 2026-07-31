@@ -38,8 +38,11 @@ day24 = 10.10 to 6 PM
 day25 = 10 to 9.30 PM
 day26 = 26.7.26 (Holiday)
 
-day20 = 10.30 to 5 PM			20.7.26 - Mon
-day21 = 10.30 to 7 PM
+day27 = 10.30 to 5 PM			20.7.26 - Mon
+day28 = 10.30 to 7 PM
+day29 = 10.30 to 7 PM
+day30 = 10.20 to 6 PM			Movie - Spider man
+day31 = 
 
 
 
