@@ -42,6 +42,7 @@ day30 = 0										30.6.26 - Tue
 
 xxx--- End of June 2026 ---xxx
 
+xxx--- Start of July 2026 ---xxx
 day1 = 0                                            				1.7.26 - Wed
 day2 = 0 
 day3 = 0 
@@ -56,7 +57,7 @@ day10 = 8.30 to 9.30 AM
 day11 = 0
 day12 = 0
 
-day13 = 0										13.6.26 - Mon
+day13 = 0										13.7.26 - Mon
 day14 = 0
 day15 = 0
 day16 = 0
@@ -64,7 +65,7 @@ day17 = 0
 day18 = 0
 day19 = 0
 
-day20 = 0										20.6.26 - Mon
+day20 = 0										20.7.26 - Mon
 day21 = 0
 day22 = 0
 day23 = 0
@@ -72,10 +73,17 @@ day24 = 0
 day25 = 0
 day26 = 0
 
-day27 = 0
+day27 = 0										27.7.26 - Mon
 .
 .
 .
 day31 = 0
+
+xxx--- End of July 2026 ---xxx
+
+xxx--- Start of August 2026 ---xxx
+day1 = 0
+day2 = 0
+
 
 
