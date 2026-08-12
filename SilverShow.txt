@@ -83,7 +83,10 @@ xxx--- End of July 2026 ---xxx
 
 xxx--- Start of August 2026 ---xxx
 day1 = 0
-day2 = 0
+.
+.
+.
+day10 = 0
 
 
 
