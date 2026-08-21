@@ -1,9 +1,6 @@
-Part-Time:
+DCN / RAILTEL:
 ---
-
-RAILTEL:
----
-Start Date: 1.06.26
+Work Joined Date: 1.06.26
 ------------------------------------------------------------
 
 xxx--- Start of August 2026 ---xxx
@@ -28,9 +25,18 @@ day15 = 10.10 to 12.55 PM
 day16 = 16.8.26 (Sunday - Holiday)
 
 day17 = 10.15 to 6.55 PM 			17.8.26 - Mon
+day18 = 10.10 to 9.30 Pm
+day19 = 10.25 to 5.35 Pm 
+day20 = 10.15 to 2.45 PM
+day21 =  0 (Leave)   				21.8.26 - Fri
+
+
+
 
 xxx--- End of August 2026 ---xxx
+
 ------------------------------------------
+
 xxx--- Start of July 2026 ---xxx
 
 day1 = 10 to 4.50 Pm            		1.7.26 - Wed
@@ -70,7 +76,9 @@ day30 = 10.20 to 6 PM			Movie - Spider man
 day31 = 10 to 6 PM				31.7.26 - Fri
 
 xxx--- End of July 2026 ---xxx
+
 ------------------------------------------
+
 xxx--- Start of June 2026 ---xxx
 
 day1 = 10.00 to 5.30 PM		    1.6.26 - Mon
@@ -107,6 +115,7 @@ Sunday - 28.6.26 (Holiday)
 
 day25 = 10.15 to 7 PM			29.6.26 - Mon
 day26 = 10 to 5 PM
+
 ---
 xxx--- End of June 2026 ---xxx
 
