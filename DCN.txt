@@ -1,8 +1,19 @@
 DCN / RAILTEL:
 ---
 Work Joined Date: 1.06.26
+
 ------------------------------------------------------------
 
+xxx--- Start of October 2026 ---xxx
+---
+day1 = 10.20 to 7 PM			1.10.26 - Thu
+day2 = 10.20 to 7.35 PM
+day3 = 10.40 to 2 PM
+day4 = 4.9.26 (Sunday - Holiday)
+
+
+xxx--- End of October 2026 ---xxx
+------------------------------------------
 xxx--- Start of September 2026 ---xxx
 ---
 day1 = 10.20 to 6.35 PM			1.9.26 - Tue
@@ -10,7 +21,7 @@ day2 = 10.10 to 7.30 PM
 day3 = 1 to 6.40 PM
 day4 = 10 to 7 PM				4.9.26 - Fri
 day5 = 9.50 to 4.30 PM			
-day6 = 6.8.26 (Sunday - Holiday)
+day6 = 6.9.26 (Sunday - Holiday)
 
 day7 = 10.20 to 7 PM			7.9.26 - Mon
 day8 = 10.10 to 5.35 PM
@@ -18,7 +29,7 @@ day9 = 10.15 to 5.30 PM
 day10 = 10.30 to 6.25 PM
 day11 = 10.30 to 7.20 PM		11.9.26 - Fri
 day12 = 10.35 to 4 PM
-day13 = 13.8.26 (Sunday - Holiday)
+day13 = 13.9.26 (Sunday - Holiday)
 
 day14 =  (Leave = Chennai Function)	14.9.26 - Mon
 day15 = 10.20 to 7.25 PM	
@@ -26,9 +37,19 @@ day16 = 10.35 to 8.40 PM
 day17 = (Leave = Anna House)		
 day18 = 10.20 to 6 PM		18.9.26 - Fri
 day19 = 10.20 to 6.40 PM
-day20 = 20.8.26 (Sunday - Holiday)
+day20 = 20.9.26 (Sunday - Holiday)
 
-day21 =  
+day21 =  10.20 to  5 PM		21.9.26 - Mon
+day22 =  10.20 to  5.50 PM
+day23 = 10.20 to 6 PM
+day24 = 10.20 to 6.20 PM
+day25 = 10.35 to 6.30 PM		25.9.26 - Fri
+day26 = 26.9.26 ( Leave)
+day27 = 27.9.26 (Sunday - Holiday)
+
+day28 = 10.20 to 6 PM 		28.9.26 - Mon
+day29 = 10.10 to 5.30 PM
+day30 = 10.25 to 6.15 PM		30.9.26 - Wed
 
 xxx--- End of September 2026 ---xxx
 ------------------------------------------
