@@ -15,7 +15,7 @@ day5 = 10.20 to 6 PM			5.10.26 - Mon
 day6 = 10.15 to 7 PM
 day7 = 10.10 to 7 PM
 day8 = 10.10 to 6.40 PM
-day9 = .
+day9 = 11 to 6 PM			9.10.26 - Fri
 
 
 xxx--- End of October 2026 ---xxx
