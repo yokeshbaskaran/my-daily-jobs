@@ -16,7 +16,8 @@ day6 = 10.15 to 7 PM
 day7 = 10.10 to 7 PM
 day8 = 10.10 to 6.40 PM
 day9 = 11 to 6 PM			9.10.26 - Fri
-
+day10 = 10.30 to 12.30 PM
+day11 = 11.9.26 (Sunday - Holiday)
 
 xxx--- End of October 2026 ---xxx
 ------------------------------------------
